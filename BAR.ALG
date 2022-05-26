@@ -1,6 +1,7 @@
 Algoritmo "Bar"
 
 // Aluno : Murilo Martins
+// Data : 26/05/2022
 
 Var
 
