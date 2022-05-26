@@ -1,5 +1,7 @@
 Algoritmo "Imposto"
 
+// Aluno : Murilo Martins
+
 Var
 
    salary, service, capital, medical, education : real

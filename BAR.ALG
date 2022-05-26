@@ -1,5 +1,7 @@
 Algoritmo "Bar"
 
+// Aluno : Murilo Martins
+
 Var
 
    sexo : caracter

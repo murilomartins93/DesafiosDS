@@ -1,5 +1,7 @@
 Algoritmo "Atletas"
 
+// Aluno : Murilo Martins
+
 Var
 
    n, i, count : inteiro

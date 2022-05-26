@@ -1,5 +1,7 @@
 Algoritmo "Concurso"
 
+// Aluno : Murilo Martins
+
 Var
 
    n, i, count, posMaior : inteiro

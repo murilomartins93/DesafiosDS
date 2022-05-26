@@ -145,6 +145,8 @@ Fimprocedimento
 
 Algoritmo "CONTRIBUINTES"
 
+// Aluno : Murilo Martins
+
 Var
 
    salary, service, capital, medical, education : real
